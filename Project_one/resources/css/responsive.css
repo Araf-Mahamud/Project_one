@@ -1,0 +1,90 @@
+@media screen and (max-width: 220rem){
+    html{
+        font-size: 67%;
+    }
+
+    #nav_bar .hero_section h1{
+        max-width: 55%;
+        margin-left: -4rem;
+    }
+
+    #services .column_part{
+        margin-top: 10.5rem ;
+        padding: 0 8rem;
+        margin-left: 26rem ;
+    }
+
+}
+
+
+@media screen and (max-width: 120rem){
+    html{
+        font-size: 62.5%;
+    }
+
+    #nav_bar .hero_section h1{
+        max-width: 80%;
+        margin-left: 2rem;
+    }
+
+    #services .container .row.column_part{
+        margin: 11.5rem 0 3rem;
+        padding: 0 8rem;
+        margin-left: 7.5rem;
+    }
+
+    #nav_bar .hero_section h1{
+        max-width: 80%;
+        margin-left: 2rem;
+        font-size: 3.3rem;
+        line-height: 3.5rem;
+    }
+
+}
+
+
+
+@media screen and (max-width: 96rem){
+    #team .container h3{
+        font-size: 2rem;
+        width: 100%;
+        text-align: left;
+    }
+
+    #form .container form input[type="email"],#form .container form input[type="text"]{
+        width: 100%;
+        margin-left: none;
+    }
+
+    
+}
+
+@media screen and (max-width: 76.8rem){
+    #client .span_1_of_2 {
+        width: 100%;
+    }
+
+    #client .container .column_section img {
+        float: none;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 0;
+        border-radius: 0;
+        margin-left: 3rem;
+    }
+    #client .container .column_section .text{
+        text-align: center;
+        margin-left: 0;
+        width: 50%;
+        font-size: 3rem;
+    }
+    #footer li{
+        display: inline-block;
+        margin-left: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 48rem){
+    
+}
