@@ -5,4 +5,5 @@ Here in my site I use Bootstrap standards for responsive design. I use the follo
 * 768px for tablets
 * 992px for laptops
 * 1200px for large devices
-But if you need different resulation it can be configurable.
+
+  But if you need different resulation it can be configurable.
